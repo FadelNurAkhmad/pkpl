@@ -1,3 +1,3 @@
 # PKPL A
-#Nama : Fadel Nur Akhmad
-#NIM : 1900018237
+Nama : Fadel Nur Akhmad
+NIM : 1900018237
